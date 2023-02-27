@@ -1,0 +1,23 @@
+[33mcommit b13b141e077e6ce1d8c81c1f0ff84f5006305bb5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: ijaeu <lebitances@hanmail.net>
+Date:   Mon Feb 27 11:21:38 2023 +0900
+
+    test.txt 수정했다
+
+[33mcommit 1dbda0786f76671ed762b22c0952719ba9cd89bc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ijaeu <lebitances@hanmail.net>
+Date:   Mon Feb 27 11:06:06 2023 +0900
+
+    add test2.txt
+
+[33mcommit bcf4887eb27fe4484f4a1893e09be46df9c8b49e[m
+Author: ijaeu <lebitances@hanmail.net>
+Date:   Mon Feb 27 10:36:50 2023 +0900
+
+    test.txt 추가함
+
+[33mcommit c2b9f007dfe1e4f100ede41f125632f36ae8ac50[m
+Author: ijae <126428545+ijaeu@users.noreply.github.com>
+Date:   Mon Feb 27 10:24:56 2023 +0900
+
+    Initial commit
